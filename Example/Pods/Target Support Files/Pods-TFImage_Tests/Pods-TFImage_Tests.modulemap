@@ -1,0 +1,6 @@
+framework module Pods_TFImage_Tests {
+  umbrella header "Pods-TFImage_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

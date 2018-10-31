@@ -1,0 +1,6 @@
+framework module Pods_TFImage_Example {
+  umbrella header "Pods-TFImage_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

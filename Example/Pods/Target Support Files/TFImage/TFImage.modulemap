@@ -1,0 +1,6 @@
+framework module TFImage {
+  umbrella header "TFImage-umbrella.h"
+
+  export *
+  module * { export * }
+}
